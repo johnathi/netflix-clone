@@ -1,2 +1,2 @@
 # netflix-clone
-<img src="main/netflix.pdf"> </a>
+<img src="https://github.com/johnathi/netflix-clone/blob/main/imgs/netflix1.png)https://github.com/johnathi/netflix-clone/blob/main/imgs/netflix1.png"> </a>
